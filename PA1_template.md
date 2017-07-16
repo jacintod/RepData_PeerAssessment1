@@ -268,3 +268,4 @@ xyplot(steps ~ interval | factor(wk),
 
 ![](PA1_template_files/figure-html/display_wk_pattern-1.png)<!-- -->
 
+From the panel plot it looks like the weekday activities arise earlier than the weekends - weekday activities arise around 5~6am and weekend activities arise around 8am. We can also observe that from 10am to 5pm, the weekends have higher activity levels than the weekdays.
